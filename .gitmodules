@@ -4,7 +4,7 @@
 	branch = master_jammy
 [submodule "cosmic-comp"]
 	path = cosmic-comp
-	url = https://github.com/pop-os/cosmic-comp
+	url = https://github.com/skygrango/cosmic-comp.git
 	branch = master_jammy
 [submodule "cosmic-panel"]
 	path = cosmic-panel
